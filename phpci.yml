@@ -3,6 +3,7 @@ build_settings:
     ignore:
         - "vendor"
         - "tests"
+	- "system"
     mysql:
         host: "localhost"
         user: "root"
